@@ -57,11 +57,11 @@ span {
 
 div.info {
     display: block;
-    margin: 10px 10px;
+    margin: 10px 20px;
     padding: 10px 5px 0px 5px;
     background-color: #5f2c82;
     border-radius: 15px;
-    width: 240px;
+    width: 220px;
 }
 
 input.campo:focus-within {
@@ -76,6 +76,7 @@ input.campo {
     border-radius: 10px;
     height: 35px;
     padding-right: 4px;
+    width: 187.6px;
 }
 
 input[type=submit] {
